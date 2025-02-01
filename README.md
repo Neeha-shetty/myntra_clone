@@ -74,6 +74,7 @@ This project is a clone of the popular e-commerce website **Myntra**, designed t
 ---
 
 ## Screenshots
+![myntra](https://github.com/user-attachments/assets/063cb56e-1b27-40a1-be1d-227209f66a2e)
 
 *Add relevant screenshots here to showcase your project.*
 
